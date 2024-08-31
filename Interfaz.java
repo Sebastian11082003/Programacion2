@@ -8,7 +8,7 @@ public class Interfaz {
         do {
             optionPane = JOptionPane.showInputDialog(null, "\n" +
                     "1. Registrar vehiculo \n" +
-                    "2. Retirar vehiculo \n" +
+                    "2. Retire el vehiculo \n" +
                     "3. Consultar espacio disponible \n" +
                     "4. Salir");
 
